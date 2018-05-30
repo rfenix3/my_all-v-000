@@ -16,4 +16,4 @@ def my_all?(collection)
   end
 end
 
-puts my_all?([4,5,3]){|i| i>2 }
+#puts my_all?([4,5,3]){|i| i>2 }
